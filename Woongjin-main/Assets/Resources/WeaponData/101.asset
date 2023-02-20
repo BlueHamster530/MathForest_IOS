@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8648046954c2a347816840359f9deb1, type: 3}
+  m_Name: 101
+  m_EditorClassIdentifier: 
+  nWeaponCode: 101
+  sWeaponName: "\uD578\uB4DC\uAC74"
+  eType: 0
+  nWeaponMagazine: -1
+  nRefillMagazine: 0
+  optionByLevel:
+  - nWeaponDamage: 13
+    fWeaponDelay: 0.3
+    nThrowCount: 1
+    fAimDegree: 45
+    fAimDistance: 7
+    gWeaponPrefab: {fileID: 3435629670166881494, guid: 87c669a800f71274a9ba4ffb83ce8a94, type: 3}
+    gFireEffect: {fileID: 5596701906398988359, guid: ee48563cbfe73ce4091c6b2663a9bf48, type: 3}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: 5d494b5cec48e1548a364f6b744834d4, type: 3}
+    sAttackMethod: ShootProjectile
+    sizeDelta: 0
+  - nWeaponDamage: 15
+    fWeaponDelay: 0.2
+    nThrowCount: 1
+    fAimDegree: 45
+    fAimDistance: 7
+    gWeaponPrefab: {fileID: 3435629670166881494, guid: 87c669a800f71274a9ba4ffb83ce8a94, type: 3}
+    gFireEffect: {fileID: 5596701906398988359, guid: ee48563cbfe73ce4091c6b2663a9bf48, type: 3}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: 5d494b5cec48e1548a364f6b744834d4, type: 3}
+    sAttackMethod: ShootProjectile
+    sizeDelta: 0
+  - nWeaponDamage: 16
+    fWeaponDelay: 0.1
+    nThrowCount: 2
+    fAimDegree: 45
+    fAimDistance: 7
+    gWeaponPrefab: {fileID: 3435629670166881494, guid: b9caecdce6b118c46b697730be7197fe, type: 3}
+    gFireEffect: {fileID: 6067161317814247007, guid: a2129df8769197f4fa7beacd75c03001, type: 3}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: 4aaff862c41a782469c39ab8cfd793ce, type: 3}
+    sAttackMethod: ShootProjectile
+    sizeDelta: 0
+  - nWeaponDamage: 19
+    fWeaponDelay: 0.1
+    nThrowCount: 2
+    fAimDegree: 45
+    fAimDistance: 7
+    gWeaponPrefab: {fileID: 3435629670166881494, guid: b9caecdce6b118c46b697730be7197fe, type: 3}
+    gFireEffect: {fileID: 6067161317814247007, guid: a2129df8769197f4fa7beacd75c03001, type: 3}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: 4aaff862c41a782469c39ab8cfd793ce, type: 3}
+    sAttackMethod: ShootProjectile
+    sizeDelta: 0
+  shotSound: {fileID: 9074819682394691676, guid: f19049567ab106a4c9ba08e44a6626a8, type: 3}

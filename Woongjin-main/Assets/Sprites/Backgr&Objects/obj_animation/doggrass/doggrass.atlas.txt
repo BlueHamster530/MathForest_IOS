@@ -1,0 +1,9 @@
+doggrass.png
+size:129,147
+filter:Linear,Linear
+pma:true
+BG_obj_doggrass
+bounds:92,19,35,126
+BG_obj_doggrass2
+bounds:2,2,143,88
+rotate:90

@@ -1,0 +1,15 @@
+redpurpleflower.png
+size:223,163
+filter:Linear,Linear
+pma:true
+BG_obj_purpleflower
+bounds:137,2,68,78
+offsets:1,1,70,81
+rotate:90
+BG_obj_purpleflower3
+bounds:2,2,133,77
+offsets:1,2,135,80
+BG_obj_redflower
+bounds:139,72,82,89
+BG_obj_redflower3
+bounds:2,81,135,80

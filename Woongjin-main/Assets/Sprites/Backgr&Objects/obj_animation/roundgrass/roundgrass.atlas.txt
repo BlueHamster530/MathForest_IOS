@@ -1,0 +1,8 @@
+roundgrass.png
+size:158,48
+filter:Linear,Linear
+pma:true
+BG_obj_roundgrass
+bounds:2,2,76,44
+BG_obj_roundgrass2
+bounds:80,2,76,44

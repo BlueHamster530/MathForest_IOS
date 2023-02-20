@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: mino_cutscene_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: fa267c4818345a34a80792f4c9e6993d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 24e82a43f7b33b14fa86c1fb85159952, type: 2}
+  - {fileID: 2100000, guid: 4c1a95f862e2d3947976c49d3ac47c84, type: 2}
+  - {fileID: 2100000, guid: 579473597c60ca945880169c48cb2542, type: 2}
+  - {fileID: 2100000, guid: 2f60f840fcaa9c74fb8b69aa3b0035eb, type: 2}
+  - {fileID: 2100000, guid: cf3106345bffd634f9b7fc14e3e597d3, type: 2}
+  - {fileID: 2100000, guid: 8d9f18e4366d0dd42ba34ab0f27d3704, type: 2}
+  - {fileID: 2100000, guid: 583ed9ae107890e4ab12d00b2952d0cc, type: 2}
+  - {fileID: 2100000, guid: bd434524c93ab36499764965f6214f49, type: 2}
+  - {fileID: 2100000, guid: 80a32cf2b39a8434ebd44f761e709656, type: 2}
+  - {fileID: 2100000, guid: 14804d38dbccacc4e917bed4c06e59fe, type: 2}
+  - {fileID: 2100000, guid: 4d1c21d5e06b06d4c8453dfdb583feaf, type: 2}

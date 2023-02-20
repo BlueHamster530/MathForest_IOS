@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8648046954c2a347816840359f9deb1, type: 3}
+  m_Name: 107
+  m_EditorClassIdentifier: 
+  nWeaponCode: 107
+  sWeaponName: "\uB808\uC774\uC800 \uAC74"
+  eType: 3
+  nWeaponMagazine: 200
+  nRefillMagazine: 200
+  optionByLevel:
+  - nWeaponDamage: 9
+    fWeaponDelay: 0.1
+    nThrowCount: 1
+    fAimDegree: 60
+    fAimDistance: 10
+    gWeaponPrefab: {fileID: 1070106541434070640, guid: 9b1336e4bef6930428df7124da92d5d8, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 7856562521573923334, guid: 509d6ff685fbb2043a786dcfebe71a87, type: 3}
+    sAttackMethod: LaserAttack
+    sizeDelta: 1
+  - nWeaponDamage: 11
+    fWeaponDelay: 0.1
+    nThrowCount: 1
+    fAimDegree: 60
+    fAimDistance: 10
+    gWeaponPrefab: {fileID: 1070106541434070640, guid: 9b1336e4bef6930428df7124da92d5d8, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 7856562521573923334, guid: 509d6ff685fbb2043a786dcfebe71a87, type: 3}
+    sAttackMethod: LaserAttack
+    sizeDelta: 1
+  - nWeaponDamage: 13
+    fWeaponDelay: 0.1
+    nThrowCount: 1
+    fAimDegree: 60
+    fAimDistance: 14
+    gWeaponPrefab: {fileID: 8589595669858622718, guid: a3fc88babbb4d2944999e0ef66aa8eb4, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 244897227820064587, guid: 55ad6e6b3aae266489c1c1afdd2fcf49, type: 3}
+    sAttackMethod: LaserAttack
+    sizeDelta: 2.8
+  - nWeaponDamage: 16
+    fWeaponDelay: 0.1
+    nThrowCount: 1
+    fAimDegree: 60
+    fAimDistance: 14
+    gWeaponPrefab: {fileID: 8589595669858622718, guid: a3fc88babbb4d2944999e0ef66aa8eb4, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 244897227820064587, guid: 55ad6e6b3aae266489c1c1afdd2fcf49, type: 3}
+    sAttackMethod: LaserAttack
+    sizeDelta: 2.8
+  shotSound: {fileID: 9074819682394691676, guid: 10158f1dd16713a48abb76f83dfe2a80, type: 3}

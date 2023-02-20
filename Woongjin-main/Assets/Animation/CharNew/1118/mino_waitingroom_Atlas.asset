@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: mino_waitingroom_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 99a34758c4f1b4c488632e0998a6c938, type: 3}
+  materials:
+  - {fileID: 2100000, guid: cc4454e712107a14ca9fc6cb1425b856, type: 2}
+  - {fileID: 2100000, guid: 4b16709b7ecbecd4aaa13445750d78d3, type: 2}
+  - {fileID: 2100000, guid: f7f8658d82483ec4eab68e76320c43e2, type: 2}
+  - {fileID: 2100000, guid: 829b7f43e25fe6d4c8e6289b4dfe6b45, type: 2}
+  - {fileID: 2100000, guid: 4b259d91e62798d47a2e238b6578fb71, type: 2}
+  - {fileID: 2100000, guid: 91c3c853f4660e54992f9cce485ad7ec, type: 2}
+  - {fileID: 2100000, guid: 2c20b5e830a5e2c4c92fdf38e48384ee, type: 2}
+  - {fileID: 2100000, guid: ea3f4451a8c32c74d93e0a970e0ddbe2, type: 2}
+  - {fileID: 2100000, guid: bd6cb2de3053cfd4383f94f465840aec, type: 2}
+  - {fileID: 2100000, guid: 90beaabb50b93ea4ba161f2f67461602, type: 2}
+  - {fileID: 2100000, guid: 5548960bab8c2d94d8656a4863276be4, type: 2}

@@ -1,0 +1,7 @@
+mushrooms.png
+size:121,64
+filter:Linear,Linear
+pma:true
+BG_obj_mushrooms
+bounds:2,2,117,60
+offsets:1,2,119,63

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8648046954c2a347816840359f9deb1, type: 3}
+  m_Name: 106
+  m_EditorClassIdentifier: 
+  nWeaponCode: 106
+  sWeaponName: "\uC0F7 \uAC74"
+  eType: 0
+  nWeaponMagazine: 30
+  nRefillMagazine: 30
+  optionByLevel:
+  - nWeaponDamage: 42
+    fWeaponDelay: 1.5
+    nThrowCount: 1
+    fAimDegree: 50
+    fAimDistance: 6
+    gWeaponPrefab: {fileID: 5258325112069669444, guid: caaf23ca3446f0e489a5b1db3ea3cfa8, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 4519351704617474195, guid: 9327ed705040a534693a774ffc29c23b, type: 3}
+    sAttackMethod: ShootImmediate
+    sizeDelta: 0
+  - nWeaponDamage: 48
+    fWeaponDelay: 1.5
+    nThrowCount: 1
+    fAimDegree: 50
+    fAimDistance: 6
+    gWeaponPrefab: {fileID: 5258325112069669444, guid: caaf23ca3446f0e489a5b1db3ea3cfa8, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 4519351704617474195, guid: 9327ed705040a534693a774ffc29c23b, type: 3}
+    sAttackMethod: ShootImmediate
+    sizeDelta: 0
+  - nWeaponDamage: 55
+    fWeaponDelay: 1.5
+    nThrowCount: 1
+    fAimDegree: 50
+    fAimDistance: 6
+    gWeaponPrefab: {fileID: 5258325112069669444, guid: 8a2902c2932ca6d439092779fa4ff123, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 5878734837329914032, guid: f95116740d533404d909429c58c7c026, type: 3}
+    sAttackMethod: ShootImmediate
+    sizeDelta: 0
+  - nWeaponDamage: 64
+    fWeaponDelay: 1.5
+    nThrowCount: 1
+    fAimDegree: 50
+    fAimDistance: 6
+    gWeaponPrefab: {fileID: 5258325112069669444, guid: 8a2902c2932ca6d439092779fa4ff123, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 5878734837329914032, guid: f95116740d533404d909429c58c7c026, type: 3}
+    sAttackMethod: ShootImmediate
+    sizeDelta: 0
+  shotSound: {fileID: 9074819682394691676, guid: 889874eb40514c743a3e506e8203efa6, type: 3}

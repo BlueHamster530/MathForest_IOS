@@ -1,0 +1,8 @@
+sharpgrass.png
+size:145,49
+filter:Linear,Linear
+pma:true
+BG_obj_sharpgrass
+bounds:77,2,66,45
+BG_obj_sharpgrass2
+bounds:2,2,73,45

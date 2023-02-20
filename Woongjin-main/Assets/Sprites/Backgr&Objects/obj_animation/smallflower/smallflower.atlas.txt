@@ -1,0 +1,7 @@
+smallflower.png
+size:79,84
+filter:Linear,Linear
+pma:true
+BG_obj_smallflower
+bounds:2,2,75,80
+offsets:2,1,79,82

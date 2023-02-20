@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8648046954c2a347816840359f9deb1, type: 3}
+  m_Name: 103
+  m_EditorClassIdentifier: 
+  nWeaponCode: 103
+  sWeaponName: "\uBD80\uBA54\uB791"
+  eType: 0
+  nWeaponMagazine: 30
+  nRefillMagazine: 30
+  optionByLevel:
+  - nWeaponDamage: 13
+    fWeaponDelay: 1.1
+    nThrowCount: 1
+    fAimDegree: 50
+    fAimDistance: 5
+    gWeaponPrefab: {fileID: 3732509481404847508, guid: 79cd1176d896a4a49bcdeb16ed663bbb, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: 85d6262f1ddd8f94db8b7674cb83ec93, type: 3}
+    sAttackMethod: ShootProjectile
+    sizeDelta: 0
+  - nWeaponDamage: 15
+    fWeaponDelay: 1.1
+    nThrowCount: 1
+    fAimDegree: 50
+    fAimDistance: 5
+    gWeaponPrefab: {fileID: 3732509481404847508, guid: 79cd1176d896a4a49bcdeb16ed663bbb, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: 85d6262f1ddd8f94db8b7674cb83ec93, type: 3}
+    sAttackMethod: ShootProjectile
+    sizeDelta: 0
+  - nWeaponDamage: 18
+    fWeaponDelay: 1.1
+    nThrowCount: 4
+    fAimDegree: 360
+    fAimDistance: 5
+    gWeaponPrefab: {fileID: 3732509481404847508, guid: 04ba1e196700cce47b7cbd8bf92e20a0, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: f69ea641c6c207542a7725ae0eb6ac9e, type: 3}
+    sAttackMethod: OrbitalSaw
+    sizeDelta: 0
+  - nWeaponDamage: 21
+    fWeaponDelay: 1.1
+    nThrowCount: 4
+    fAimDegree: 360
+    fAimDistance: 5
+    gWeaponPrefab: {fileID: 3732509481404847508, guid: 04ba1e196700cce47b7cbd8bf92e20a0, type: 3}
+    gFireEffect: {fileID: 0}
+    gBackEffect: {fileID: 0}
+    gBulletPrefab: {fileID: 3829641181424246557, guid: f69ea641c6c207542a7725ae0eb6ac9e, type: 3}
+    sAttackMethod: OrbitalSaw
+    sizeDelta: 0
+  shotSound: {fileID: 9074819682394691676, guid: 681d6f839121ae44892460c3704f7d57, type: 3}

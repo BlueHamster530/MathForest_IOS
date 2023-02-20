@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: weaponIceGun
+  m_Controller: {fileID: 9100000, guid: 2d3a01656de04f240a79894050858fe0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cca03dbfd47aca44ba03be53993060af, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 979d27fe8131d5c4fabf448b39f1b58d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 98ee43ee8d66eb647bd21aeea4f830d2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0afb786aa06fc9b47bd2b62d47d05ab3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cebf7abe110ad7646a3b575e937e3a6c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 073d7e1a1f1774841975112b7bf982e4, type: 2}

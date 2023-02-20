@@ -1,0 +1,16 @@
+shortlongflower.png
+size:373,87
+filter:Linear,Linear
+pma:true
+BG_obj_longflower
+bounds:2,5,80,155
+rotate:90
+BG_obj_longflowerleaf
+bounds:328,3,82,43
+rotate:90
+BG_obj_shortflower
+bounds:159,11,74,122
+rotate:90
+BG_obj_shortflowerleaf
+bounds:283,2,83,43
+rotate:90
